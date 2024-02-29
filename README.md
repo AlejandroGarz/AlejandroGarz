@@ -1,4 +1,6 @@
-### Hi there 👋
+Hola! 👋
+
+Soy Alejandro Garzón Mayorga, un estudiante de Ingeniería de sistemas.
 
 <!--
 **AlejandroGarz/AlejandroGarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
